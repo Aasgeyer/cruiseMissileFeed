@@ -1,0 +1,11 @@
+
+class CfgFunctions
+{
+	class AAS
+	{
+		class feed
+		{
+			class livefeed2 {ext=".fsm";};
+		};
+	};
+};
